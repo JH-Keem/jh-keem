@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Oracle-C74634.svg?&logo=oracle&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/PostgreSQL-2F5D8A.svg?&logo=postgresql&logoColor=FFFFFF" />
 
   ### Learning
-  <img src="https://img.shields.io/badge/Kotlin-6F3DC8.svg?&logo=kotlin&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Flutter-59c6f8.svg?&logo=flutter&logoColor=FFFFFF" />
 
   ### OS
   <img src="https://img.shields.io/badge/Linux-e1901c.svg?&logo=linux&logoColor=FFFFFF" />
